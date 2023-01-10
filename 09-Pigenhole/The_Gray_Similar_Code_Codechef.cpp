@@ -98,6 +98,7 @@ int32_t main()
 	return 0;
 }
 
+
 //Input--
 // 5
 // 1 0 2 3 7
