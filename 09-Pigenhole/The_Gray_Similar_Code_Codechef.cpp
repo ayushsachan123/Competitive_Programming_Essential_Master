@@ -35,6 +35,7 @@ inline int power(int a, int b)
 		a *= a;
 		b >>= 1;
 	}
+	
 	return x;
 }
 
