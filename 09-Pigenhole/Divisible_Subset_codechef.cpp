@@ -97,6 +97,7 @@ for(int i=0;i<a;i++){
 		break; 
 	}
 }
+
 for(int i=first;i<a;i++){
 	if(v1[i]==answer){
 		second=i+1;
@@ -126,6 +127,7 @@ int32_t main()
 
 	return 0;
 }
+
 
 // Input:
 // 1
