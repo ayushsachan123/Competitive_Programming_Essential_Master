@@ -78,6 +78,7 @@ for(int i=0;i<a;i++){
 	
   }
 
+
   if(solved ==0){
   	vector<int>v_ans(a,0);
  for(int i=0;i<a;i++){
