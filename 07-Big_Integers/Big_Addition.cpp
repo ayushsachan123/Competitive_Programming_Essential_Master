@@ -10,6 +10,7 @@ int charToDigit(char ch){
 	                  //char 5 -ascci value of char 0
 }
 
+
 string addNumbers(string n1,string n2){
 	// Make sure N2 is larger;
 	if(n1.length()>n2.length()){
