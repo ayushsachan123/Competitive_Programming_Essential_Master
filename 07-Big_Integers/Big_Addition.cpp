@@ -72,6 +72,7 @@ cout<<result<<endl;
 return 0;
 } 
 
+
 // Input--
 // abc
 // def
