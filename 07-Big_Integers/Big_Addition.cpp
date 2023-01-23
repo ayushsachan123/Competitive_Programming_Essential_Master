@@ -59,6 +59,7 @@ int main(){
 	freopen("output.txt","w",stdout);
 #endif
 
+	
 // String
 	string s1,s2;
 	cin>>s1>>s2;
