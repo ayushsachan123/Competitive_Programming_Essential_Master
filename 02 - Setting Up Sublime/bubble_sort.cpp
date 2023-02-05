@@ -25,6 +25,7 @@ void bubble_sort(vector<int>&a,int n){
 int main(){
 	int n;
 	cin>>n;
+	
 	vector<int>arr(n,0);
 
 	for(int i=0;i<n;i++){
